@@ -82,5 +82,17 @@ npm: 라이브러리 설치를 도와주는 도구
 
 package.jason: 어떤 라이브러리 설치를 했는지 기록하면 좋으니까 package.json 파일에다가 기록함
 
+node_modules: 라이브러리에 필요한 자료를 담는 공간
+
+=> node server.js (node 파일명 이름)
+
+***day 05
+npm install -g nodemon : nodemon 라이브러리 설치
+nodemon 은 서버 수정후 저장시 자동으로 서버 껏다가 다시 켜주는 역할을 해준다.
+이전에는 ctrl+c 를 직접 명령해주어야 했지만 nodemon을 사용하면 그러한 불편함 해소된다.
+
+-g : 우리의 컴퓨터 모든 폴더에서도 nodemon을 사용할수 있게 해주세요~ (global)
+
+=> nodemon server.js 로 실행해주면 된다.(nodemon 파일명 이름)
 
 참고:https://www.youtube.com/watch?v=pTm5E3jcOeY&list=PLfLgtT94nNq1qmsvIii_CAxFlD7tvB5NE&index=3
