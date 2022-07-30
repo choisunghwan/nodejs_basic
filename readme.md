@@ -3,6 +3,7 @@
 
 
 
+
 요약
 - Node.js
 - NoSQLDatabase (MongoDB)
@@ -99,5 +100,5 @@ nodemon 은 서버 수정후 저장시 자동으로 서버 껏다가 다시 켜�
 -g : 우리의 컴퓨터 모든 폴더에서도 nodemon을 사용할수 있게 해주세요~ (global)
 
 => nodemon server.js 로 실행해주면 된다.(nodemon 파일명 이름)
-
-참고:https://www.youtube.com/watch?v=pTm5E3jcOeY&list=PLfLgtT94nNq1qmsvIii_CAxFlD7tvB5NE&index=3
+![image](https://user-images.githubusercontent.com/33335762/181879156-20850101-66ba-4540-bb81-440ad3415b8f.png)
+참고:https://www.youtube.com/playlist?list=PLfLgtT94nNq1qmsvIii_CAxFlD7tvB5NE
