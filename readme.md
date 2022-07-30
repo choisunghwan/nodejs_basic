@@ -75,4 +75,12 @@ Node.js 의 강점 : sns 나 채팅서비스 (특징: 요청이 매우 많음)
 
 일반서버: 요청이 많거나 오래걸리는 요청이 있으면 멈추거나 대기시간이 발생한다.
 
+***day 04
+express 라는 라이브러리를 사용해서 서버를 만들것임.
+라이브러리: 코드를 쉽게 짜기위해 빌려쓰는 코드 모음집
+npm: 라이브러리 설치를 도와주는 도구
+
+package.jason: 어떤 라이브러리 설치를 했는지 기록하면 좋으니까 package.json 파일에다가 기록함
+
+
 참고:https://www.youtube.com/watch?v=pTm5E3jcOeY&list=PLfLgtT94nNq1qmsvIii_CAxFlD7tvB5NE&index=3

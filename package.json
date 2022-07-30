@@ -1,0 +1,22 @@
+{
+  "name": "toyproject",
+  "version": "1.0.0",
+  "description": "요약\r - Node.js\r - NoSQLDatabase (MongoDB)\r - DB에 데이터 저장/출력법\r - 서버제작(API)\r +서버 배포,npm,bootstrp 등..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choisunghwan/nodejs-mongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choisunghwan/nodejs-mongodb/issues"
+  },
+  "homepage": "https://github.com/choisunghwan/nodejs-mongodb#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
